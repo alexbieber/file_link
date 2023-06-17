@@ -8,7 +8,8 @@ HTML –
 2)	All HTML documents must start with a document type declaration: ```<!DOCTYPE html>.```
 3)	The HTML document itself begins with <html> and ends with </html>.
 4)	The visible part of the HTML document is between <body> and </body>.
-2) ``` <!DOCTYPE html>
+2) ``` '
+   <!DOCTYPE html>
      <html>
      <body>
 
